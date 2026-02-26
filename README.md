@@ -1,4 +1,4 @@
-# .NET Developer's Playground: A Showcase of Modern Tools & Practices
+# .NET Developer's Playground: Tools & Practices
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![.NET Version](https://img.shields.io/badge/dotnet-10.0-512BD4?logo=dotnet)](https://dotnet.microsoft.com/)
