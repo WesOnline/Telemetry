@@ -1,0 +1,13 @@
+﻿services:
+  telemetrywebapi:
+    image: telemetrywebapi
+    build:
+      context: .
+      dockerfile: TelemetryWebApi/Dockerfile
+
+  telemetrywebapp:
+    image: telemetrywebapp
+    build:
+      context: .
+      dockerfile: TelemetryWebApp/Dockerfile
+
